@@ -30,7 +30,7 @@ npm install
 npm run dev
 ```
 
-The app will be available at `https://.vercel.app`
+The app will be available at `https://chai-culture-navy.vercel.app/`
 
 ### Build for Production
 
